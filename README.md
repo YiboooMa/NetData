@@ -1,5 +1,4 @@
 # NetData
-By Yibo Ma, Tong Li, Yuwei Du, Yong Li
 
 ### Abstract
 We gathered a dataset of measurement reports, including traffic volume, energy consumption, and base station attributes for city-scale mobile networks. It includes data from over 10,000 4G base stations and 5,000 5G base stations, capturing the complexity of real-world network operations. To support the research community, we have published a portion of the dataset, including complete record traces of all base stations over one weekday and one weekend.
@@ -20,5 +19,3 @@ Items of the published data are as follows.
 | Carrier Shutdown time | Average time of the cell is in carrier shutdown control, measured in Millisecond |
 | Deep sleep time | Average time of the cell is in deep sleep mode, measured in Millisecond |
 
-Contact: liyong07@tsinghua.edu.cn
-Tsinghua University
